@@ -1,8 +1,10 @@
-console.log("Hello World");
-let x = 8
-//console.log(x);
+// console.log("Hello World");
+// let x = 8
+// //console.log(x);
 
-// comment silindi
-let y = "test"
+// // comment silindi
+// let y = "test"
 
-const z = (a,b, c) => a + b
+// const z = (a,b, c) => a + b
+
+let a : number = 8
